@@ -1,0 +1,6 @@
+Job Title,Company,Location,Salary,Experience Required,Skills,Date Posted,Min_Exp,Max_Exp
+Data Analyst,ABC Corp,Delhi,600000,1-2 years,"['SQL', 'Excel']",2025-06-01,1.0,2.0
+Business Analyst,XYZ Ltd,Bangalore,750000,2-3 years,"['Excel', 'Tableau']",2025-06-03,2.0,3.0
+Data Scientist,DataCo,Mumbai,1200000,3-5 years,"['Python', 'ML', 'SQL']",2025-06-04,3.0,5.0
+Python Developer,TechSoft,Remote,800000,1-2 years,"['Python', 'Django']",2025-06-06,1.0,2.0
+Data Engineer,Engineeria,Hyderabad,1050000,2-4 years,"['SQL', 'Python', 'Spark']",2025-06-07,2.0,4.0
