@@ -18,4 +18,4 @@ A Python-based project that simulates real-world job listing analysis.
 - File-structured like real analyst projects
 
 ## 📊 Why It Matters
-This project simulates what a data analyst would do in an HR or recruitment team. It’s modular, organized, and realistic — even if the dataset is small, the logic is scalable.
+This project simulates what a data analyst would do in an HR or recruitment team. It’s modular, organized, and realistic.
